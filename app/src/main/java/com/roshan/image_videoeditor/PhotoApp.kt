@@ -1,4 +1,4 @@
-package com.roshan.image_videoeditor
+package com.Farid.image_videoeditor
 
 import android.app.Application
 
